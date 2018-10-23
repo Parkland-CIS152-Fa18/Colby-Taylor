@@ -1,0 +1,35 @@
+body {
+    font-size: 100%;
+    background-color:gray;
+    
+}
+main{
+    color: white;
+    font-size: 125%;
+}
+main blockquote{
+    font-size: 75%;
+}
+header h1{
+    font-size: 75%;
+    color: white;
+    text-align: right;
+}
+header h2{
+    color: white;
+    font-style: italic;
+    font-size: 200%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center
+}
+footer h4{
+    color: white;
+    font-size: 50%;
+    text-align: center;
+}
